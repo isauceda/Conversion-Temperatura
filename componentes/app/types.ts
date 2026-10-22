@@ -1,0 +1,1 @@
+export type Unidad = 'C' | 'F' | 'K';
